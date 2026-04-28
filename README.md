@@ -24,7 +24,15 @@ University of the Incarnate Word
 
 ## Conference Presantation
 ## Certificates
-- Google Advanced Data Analytics 
+<ol>
+<li><a href = 'www.google.com'> Google Advanced Data Analytics </a> </li>
+    <ul>
+      <li>Course One</li>
+      <li>course Two</li>
+      <li>Course Three</li>
+    </ul>
+  
+</ol>
 ## Open Source Software
 1. Software1
 2. Software2
