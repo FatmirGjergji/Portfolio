@@ -26,6 +26,7 @@ University of the Incarnate Word
 ## Certificates
 <ol>
 <li><a href = 'www.google.com'> Google Advanced Data Analytics </a> </li>
+    <p>Description goes here...</p>
     <ul>
       <li>Course One</li>
       <li>course Two</li>
