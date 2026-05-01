@@ -1,6 +1,6 @@
 # Fatmir Gjergji
 Student 
-<h1 style="color: red;">Fatmir Gjergji</h1>
+
 
 # Education 
 University of the Incarnate Word
