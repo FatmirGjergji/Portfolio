@@ -1,6 +1,6 @@
 # Fatmir Gjergji
-Student:Major in BS Mathematics 
-        Minor in Data Science 
+Student: Major in BS Mathematics 
+         Minor in Data Science 
 
 
 # Education 
