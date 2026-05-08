@@ -3,7 +3,9 @@
 Student: Major in BS Mathematics  
 <span style="display:inline-block; padding-left:65px;">Minor in Data Science</span>
 
-I am a Mathematics student at the University of the Incarnate Word with a strong interest in data science, statistics, machine learning, and software development. I enjoy working on projects that combine mathematical thinking with real-world data and technology.
+I am a Mathematics student at the University of the Incarnate Word with a strong interest in data science, statistics, machine learning, and game development. I enjoy building projects that combine mathematical thinking, real-world data, and interactive software.
+
+I have experience working with Python, statistics, machine learning, and the Unity game engine. One of my major personal projects is **Illyrion**, a 2D mobile space game that I developed in Unity. In this project, I worked on gameplay mechanics, UI systems, tutorial design, mobile controls, scoring, ads, and cross-device balancing.
 
 ---
 
@@ -19,8 +21,9 @@ Minor in Data Science
 
 | Project Image | Project Description |
 |---|---|
-| [![Web Scraping Project](Images/Web_Scraping_Project.png)](Documents/Web_Scraping_Project.pdf) | **Web Scraping Project** — In this project, I used BeautifulSoup and Selenium to scrape data from multiple websites and collect useful information for analysis. |
+| ![Illyrion Unity Game](Images/Unity_Game_Project.png) | **Illyrion — Unity Mobile Game Development** — I created a 2D mobile space game in Unity where the player controls a spaceship, avoids asteroids, manages fuel, and connects with UFO wave systems. This project includes mobile touch controls, tutorial logic, UI design, scoring, animations, sound, ads, and gameplay balancing across different screen sizes. |
 | [![Open University Project](Images/Open_University_Logo.png)](Documents/Predicting_College_Student_Performance.pdf) | **Predicting College Student Performance Using Machine Learning Techniques** — In this project, I analyzed student learning data from the Open University Learning Analytics Dataset. The goal was to study student engagement, academic performance, and prediction of student success using machine learning techniques. |
+| [![Web Scraping Project](Images/Web_Scraping_Project.png)](Documents/Web_Scraping_Project.pdf) | **Web Scraping Project** — In this project, I used BeautifulSoup and Selenium to scrape data from multiple websites and collect useful information for analysis. |
 
 ---
 
@@ -53,6 +56,14 @@ Minor in Data Science
 - SPSS
 - SQL
 - HTML / CSS
+- C#
+- Unity
+- Game Development
+- Mobile Game Development
+- User Interface Design
+- Gameplay Mechanics
+- Gameplay Balancing
+- Mobile Touch Controls
 - BeautifulSoup
 - Selenium
 - Machine Learning
@@ -60,7 +71,6 @@ Minor in Data Science
 - Data Analysis
 - Regression Analysis
 - Data Visualization
-- Unity / C#
 
 ---
 
@@ -73,6 +83,14 @@ Minor in Data Science
 - RStudio
 - Jupyter Notebook
 - GitHub
+
+**Game Development**
+
+- Unity
+- C#
+- Unity Ads
+- TextMeshPro
+- Unity Remote
 
 **Libraries and Tools**
 
