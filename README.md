@@ -1,8 +1,5 @@
 # Fatmir Gjergji
 
-Student: Major in BS Mathematics  
-<span style="display:inline-block; padding-left:65px;">Minor in Data Science</span>
-
 I am a Mathematics student at the University of the Incarnate Word with a strong interest in data science, statistics, machine learning, and game development. I enjoy building projects that combine mathematical thinking, real-world data, and interactive software.
 
 I have experience working with Python, statistics, machine learning, and the Unity game engine. One of my major personal projects is **Illyrion**, a 2D mobile space game that I developed in Unity. In this project, I worked on gameplay mechanics, UI systems, tutorial design, mobile controls, scoring, ads, and cross-device balancing.
@@ -54,7 +51,6 @@ Minor in Data Science
 - Python
 - R
 - SPSS
-- SQL
 - HTML / CSS
 - C#
 - Unity
