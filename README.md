@@ -1,7 +1,8 @@
 # Fatmir Gjergji
-Student: Major in BS Mathematics 
-         Minor in Data Science 
-
+<p>
+  Student: Major in BS Mathematics<br>
+  <span style="margin-left: 65px;">Minor in Data Science</span>
+</p>
 
 # Education 
 University of the Incarnate Word
