@@ -1,7 +1,7 @@
 # Fatmir Gjergji
 <p>
   Student: Major in BS Mathematics<br>
-  <span style="margin-left: 65px;">Minor in Data Science</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Minor in Data Science
 </p>
 
 # Education 
