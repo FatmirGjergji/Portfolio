@@ -1,10 +1,12 @@
 # Fatmir Gjergji
-Student 
+Student:Major in BS Mathematics 
+        Minor in Data Science 
 
 
 # Education 
 University of the Incarnate Word
-...
+
+
 
 # Projects
 <table>
