@@ -8,7 +8,7 @@ I have experience working with Python, statistics, machine learning, and Unity. 
 
 ## Education
 
-University of the Incarnate Word 
+University of the Incarnate Word, Class of 2027  
 BS Mathematics  
 Minor in Data Science
 
@@ -93,8 +93,6 @@ Minor in Data Science
 - C#
 - Mobile gameplay development
 - UI and gameplay system implementation
-
----
 
 ## Contact
 
