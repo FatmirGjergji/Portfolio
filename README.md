@@ -18,9 +18,9 @@ Minor in Data Science
 
 | Project Image | Project Description |
 |---|---|
-| ![Illyrion Unity Game](Images/Unity_Game_Project.png) | **Illyrion — Unity Mobile Game Development** — I created a 2D mobile space game in Unity where the player controls a spaceship, avoids asteroids, manages fuel, and connects with UFO wave systems. This project includes mobile touch controls, tutorial logic, UI design, scoring, animations, sound, ads, and gameplay balancing across different screen sizes. |
-| [![Open University Project](Images/Open_University_Logo.png)](Documents/Predicting_College_Student_Performance.pdf) | **Predicting College Student Performance Using Machine Learning Techniques** — In this project, I analyzed student learning data from the Open University Learning Analytics Dataset. The goal was to study student engagement, academic performance, and prediction of student success using machine learning techniques. |
-| [![Web Scraping Project](Images/Web_Scraping_Project.png)](Documents/Web_Scraping_Project.pdf) | **Web Scraping Project** — In this project, I used BeautifulSoup and Selenium to scrape data from multiple websites and collect useful information for analysis. |
+| [![Illyrion Mobile Game](Images/Illyrion_MobileGame.png)](Documents/Illyrion_Game_Project.pdf) | **Illyrion — Unity Mobile Game Development** — I created a 2D mobile space game in Unity where the player controls a spaceship, avoids asteroids, manages fuel, and connects with UFO wave systems. This project includes mobile touch controls, tutorial logic, UI design, scoring, animations, sound, ads, and gameplay balancing across different screen sizes. |
+| [![Open University Project](Images/Open_University.png)](Documents/Predicting_College_Student_Performance.pdf) | **Predicting College Student Performance Using Machine Learning Techniques** — In this project, I analyzed student learning data from the Open University Learning Analytics Dataset. The goal was to study student engagement, academic performance, and prediction of student success using machine learning techniques. |
+| [![Web Scraping Project](Images/Web_Scrapping.webp)](Documents/Web_Scraping_Project.pdf) | **Web Scraping Project** — In this project, I used BeautifulSoup and Selenium to scrape data from multiple websites and collect useful information for analysis. |
 
 ---
 
