@@ -40,7 +40,7 @@ Minor in Data Science
 - [Get Started with Python](Images/Get_Started_with_Python.pdf)
 - [Go Beyond the Numbers: Translate Data into Insights](Images/Go_Beyond_the_Numbers_Translate_Data_into_Insights.pdf)
 - [The Power of Statistics](Images/The_Power_of_Statistics.pdf)
-- [Regression Analysis: Simplify Complex Data Relationships](Images/Regresion_Analysis_Simplify_Complex_Data_Relationships.pdf)
+- [Regression Analysis: Simplify Complex Data Relationships](Images/Regression_Analysis_Simplify_Complex_Data_Relationships.pdf)
 - [The Nuts and Bolts of Machine Learning](Images/The_Nuts_and_Bolts_of_Machine_Learning.pdf)
 - [Google Advanced Data Analytics Capstone](Images/Google_Advanced_Data_Analytics_Capstone.pdf)
 
