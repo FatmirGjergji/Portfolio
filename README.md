@@ -14,14 +14,13 @@ Minor in Data Science
 
 ---
 
-## Projects
+#### Projects
 
 | Project Image | Project Description |
 |---|---|
 | [![Illyrion Mobile Game](Images/Illyrion_MobileGame.png)](Documents/Illyrion_Game_Project.pdf) | [**Illyrion — Unity Mobile Game Development**](Documents/Illyrion_Game_Project.pdf) — I created a 2D mobile space game in Unity where the player controls a spaceship, avoids asteroids, manages fuel, and connects with UFO wave systems. This project includes mobile touch controls, tutorial logic, UI design, scoring, animations, sound, ads, and gameplay balancing across different screen sizes. |
 | [![Open University Project](Images/Open_University.png)](https://github.com/FatmirGjergji/Portfolio/blob/main/OULAD_Activity_Capstone_Project_SP26.ipynb) | [**Predicting College Student Performance Using Machine Learning Techniques**](https://github.com/FatmirGjergji/Portfolio/blob/main/OULAD_Activity_Capstone_Project_SP26.ipynb) — In this project, I analyzed student learning data from the Open University Learning Analytics Dataset. The goal was to study student engagement, academic performance, and prediction of student success using machine learning techniques. |
 | [![Web Scraping Project](Images/Web_Scrapping.webp)](https://github.com/FatmirGjergji/WebScraping/blob/main/MathJobs_WebScraping_Project.ipynb) | [**Web Scraping Project**](https://github.com/FatmirGjergji/WebScraping/blob/main/MathJobs_WebScraping_Project.ipynb) — In this project, I used BeautifulSoup and Selenium to scrape MathJobs data and collect useful information for analysis. |
----
 
 ## Selected Presentations
 
