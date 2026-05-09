@@ -28,8 +28,7 @@ Minor in Data Science
 
 **10th Annual Coastal Bend Mathematics and Statistics Conference at Texas A&M University–Corpus Christi (2026)**
 
-- Presentation: **Predicting College Student Performance Using Machine Learning Techniques**
-
+- Presentation: [**Predicting College Student Performance Using Machine Learning Techniques**](Documents/Predicting_Student_Performance_through_Machine_Learning.pdf)
 ---
 
 ## Certificates
