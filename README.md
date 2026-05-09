@@ -1,32 +1,35 @@
 # Fatmir Gjergji
 
-I am a Mathematics student at the University of the Incarnate Word with a strong interest in data science, statistics, machine learning, and game development. I enjoy building projects that combine mathematical thinking, real-world data, and interactive software.
+I am a Mathematics student at the University of the Incarnate Word with a strong interest in data science, statistics, machine learning, and software development. I enjoy building projects that combine mathematical thinking, real-world data, and technology.
 
-I have experience working with Python, statistics, machine learning, and the Unity game engine. One of my major personal projects is **Illyrion**, a 2D mobile space game that I developed in Unity. In this project, I worked on gameplay mechanics, UI systems, tutorial design, mobile controls, scoring, ads, and cross-device balancing.
+I have experience working with Python, statistics, machine learning, and Unity. One of my personal projects is **Illyrion**, a 2D mobile game developed in Unity, where I applied programming, UI design, mobile controls, and gameplay system development.
 
 ---
 
 ## Education
 
-University of the Incarnate Word, Class of 2027  
+University of the Incarnate Word 
 BS Mathematics  
 Minor in Data Science
 
 ---
 
-#### Projects
+## Projects
 
 | Project Image | Project Description |
 |---|---|
-| [![Illyrion Mobile Game](Images/Illyrion_MobileGame.png)](Documents/Illyrion_Game_Project.pdf) | [**Illyrion — Unity Mobile Game Development**](Documents/Illyrion_Game_Project.pdf) — I created a 2D mobile space game in Unity where the player controls a spaceship, avoids asteroids, manages fuel, and connects with UFO wave systems. This project includes mobile touch controls, tutorial logic, UI design, scoring, animations, sound, ads, and gameplay balancing across different screen sizes. |
+| [![Illyrion Mobile Game](Images/Illyrion_MobileGame.png)](Documents/Illyrion_Game_Project.pdf) | [**Illyrion — Unity Mobile Game Development**](Documents/Illyrion_Game_Project.pdf) — A 2D mobile game developed in Unity using C#. This project focuses on player movement, obstacle avoidance, fuel management, UI systems, scoring, and mobile gameplay design. |
 | [![Open University Project](Images/Open_University.png)](https://github.com/FatmirGjergji/Portfolio/blob/main/OULAD_Activity_Capstone_Project_SP26.ipynb) | [**Predicting College Student Performance Using Machine Learning Techniques**](https://github.com/FatmirGjergji/Portfolio/blob/main/OULAD_Activity_Capstone_Project_SP26.ipynb) — In this project, I analyzed student learning data from the Open University Learning Analytics Dataset. The goal was to study student engagement, academic performance, and prediction of student success using machine learning techniques. |
 | [![Web Scraping Project](Images/Web_Scrapping.webp)](https://github.com/FatmirGjergji/WebScraping/blob/main/MathJobs_WebScraping_Project.ipynb) | [**Web Scraping Project**](https://github.com/FatmirGjergji/WebScraping/blob/main/MathJobs_WebScraping_Project.ipynb) — In this project, I used BeautifulSoup and Selenium to scrape MathJobs data and collect useful information for analysis. |
+
+---
 
 ## Selected Presentations
 
 **10th Annual Coastal Bend Mathematics and Statistics Conference at Texas A&M University–Corpus Christi (2026)**
 
 - Presentation: [**Predicting College Student Performance Using Machine Learning Techniques**](Documents/Predicting_Student_Performance_through_Machine_Learning.pdf)
+
 ---
 
 ## Certificates
@@ -51,41 +54,31 @@ Minor in Data Science
 - HTML / CSS
 - C#
 - Unity
-- Game Development
-- Mobile Game Development
-- User Interface Design
-- Gameplay Mechanics
-- Gameplay Balancing
-- Mobile Touch Controls
-- BeautifulSoup
-- Selenium
-- Machine Learning
-- Statistics
 - Data Analysis
+- Statistical Analysis
+- Machine Learning
 - Regression Analysis
 - Data Visualization
+- Web Scraping
+- Mobile Game Development
+- UI Implementation
+- Gameplay Systems
 
 ---
 
-## Open Source Software and Tools
+## Software and Tools
 
 **Programming and Data Analysis**
 
+- Python
+- R
 - Google Colab
+- Jupyter Notebook
 - Visual Studio Code
 - RStudio
-- Jupyter Notebook
 - GitHub
 
-**Game Development**
-
-- Unity
-- C#
-- Unity Ads
-- TextMeshPro
-- Unity Remote
-
-**Libraries and Tools**
+**Data Science Libraries**
 
 - pandas
 - NumPy
@@ -93,6 +86,13 @@ Minor in Data Science
 - scikit-learn
 - BeautifulSoup
 - Selenium
+
+**Game Development**
+
+- Unity
+- C#
+- Mobile gameplay development
+- UI and gameplay system implementation
 
 ---
 
